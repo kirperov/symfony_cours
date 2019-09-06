@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\config",
+    "\\config\\packages",
+    "\\config\\routes",
+    "\\src",
+    "\\templates",
+    "\\templates\\pages"
+  ],
+  "SelectedNode": "\\config\\services.yaml",
+  "PreviewInSolutionExplorer": false
+}
